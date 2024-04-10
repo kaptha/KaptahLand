@@ -260,7 +260,7 @@
 	padding-left: 100px;
 }
 .who-we-are-four_right_img{
-	background-image: url(../images/homepage-4/about-new-img-01.jpg);
+	background-image: url(../images/homepage-4/facturacion.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1905,7 +1905,7 @@ span.pbmit-post-nav-wrapper{
 
 /** 07 - Contact us **/
 .contact-form_leftbox{
-	background-image: url(../images/contact-us-img.jpg);
+	background-image: url(../images/contacto.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
